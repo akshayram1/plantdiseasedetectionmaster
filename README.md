@@ -29,22 +29,21 @@ Install the required dependencies:
 
 cd plant-health-detection
 
-Navigate to the project directory:
+1.Navigate to the project directory:
 
-bash
-Copy code
+
 cd plant-health-detection
-Install the required dependencies using pip:
 
-bash
-Copy code
+
+2.Install the required dependencies using pip:
+
+
 pip install -r requirements.txt
 Usage
 Run the application:
 
-bash
-Copy code
-python app.py
+
+1. python app.py
 Access the application through a web browser.
 
 Upload an image of a plant to the application.
