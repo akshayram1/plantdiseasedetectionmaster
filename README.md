@@ -27,26 +27,50 @@ This repository contains the code and resources for a plant disease detection pr
    cd plantdiseasedetectionmaster
 Install the required dependencies:
 
+cd plant-health-detection
+
+Navigate to the project directory:
+
+bash
+Copy code
+cd plant-health-detection
+Install the required dependencies using pip:
+
 bash
 Copy code
 pip install -r requirements.txt
+Usage
 Run the application:
 
 bash
 Copy code
 python app.py
-Usage
 Access the application through a web browser.
+
 Upload an image of a plant to the application.
+
 Click on the "Detect" button to analyze the image.
+
 View the results indicating whether the plant is healthy or diseased.
+
 Contributing
-Contributions are welcome! If you have any ideas or improvements, feel free to submit a pull request.
+Contributions to this project are highly appreciated. If you have any ideas or improvements, follow these steps to contribute:
 
 Fork the repository.
-Create a new branch for your feature or bug fix: git checkout -b feature/your-feature-name
-Commit your changes: git commit -m "Add some feature"
-Push to the branch: git push origin feature/your-feature-name
+
+Create a new branch for your feature or bug fix:
+
+
+git checkout -b feature/your-feature-name
+Commit your changes:
+
+
+git commit -m "Add some feature"
+Push to the branch:
+
+
+git push origin feature/your-feature-name
 Open a pull request.
+
 License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the LICENSE file for details.
